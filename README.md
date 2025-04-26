@@ -57,11 +57,5 @@ This project, Sign Language to Speech Conversion using Machine Learning, enables
 
 Thank You for reading this file. 
 
-I hope you all understand this project.
-
->Best Regards :
-**Animesh Kumar Srivastava**
-
-[Follow for more project on Linkedin](https://www.linkedin.com/in/animeshkumar143/)
 
 	- NoCopyright Animesh
