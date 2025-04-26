@@ -58,4 +58,3 @@ This project, Sign Language to Speech Conversion using Machine Learning, enables
 Thank You for reading this file. 
 
 
-	- NoCopyright Animesh
